@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alovaltylky.github.io/sitemap
+Sitemap: https://alovaltylky.github.io/app/sitemap
+Sitemap: https://alovaltylky.github.io/assets/sitemap
+Sitemap: https://alovaltylky.github.io/css/sitemap
+Sitemap: https://alovaltylky.github.io/includes/sitemap
+Sitemap: https://alovaltylky.github.io/item/sitemap
+Sitemap: https://alovaltylky.github.io/src/sitemap
